@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "scrollpager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xuebusi/ScrollPager.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "746ffa13f33cb22a0a80fb3775361129bb054858"
+      }
+    }
+  ],
+  "version" : 2
+}
